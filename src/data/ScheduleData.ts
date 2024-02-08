@@ -16,6 +16,10 @@ export const allData: Schedule = [
               'https://docs.google.com/presentation/d/1FtwM2RCELcuEZXgCWiYJNLQRVyv0q151nXd4UdHsK9Y/edit?usp=sharing',
             displayText: 'Welcome + Goal Setting',
           },
+          {
+            linkURL: 'https://chat.openai.com/',
+            displayText: 'ChatGPT',
+          },
         ],
       },
       {
