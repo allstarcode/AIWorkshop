@@ -44,13 +44,6 @@
       <Schedule />
     </div>
   </ul>
-  <!-- <button
-    id="scrollToTop"
-    class="waves-effect waves-light btn btn-medium"
-    on:click={() => document.getElementById('anchor').scrollIntoView({ behavior: 'smooth' })}
-  >
-    back to top
-  </button> -->
   <div id="footerLogo">
     <a href="https://allstarcode.org" rel="noreferrer noopener" target="_blank">
       <img src="https://i.imgur.com/w1tzpDH.png" alt="All Star Code Official Logo" />
