@@ -6,7 +6,7 @@ export const allData: Schedule = [
     title: '',
     activities: [
       {
-        name: 'Welcome + Goal Setting',
+        name: 'Welcome + Goal-Setting',
         time: '3:30PM - 3:40PM',
         duration: '10',
         actType: 'lecture',
@@ -31,7 +31,7 @@ export const allData: Schedule = [
           {
             displayText: 'All Star Code Practical AI Applications Workshop: Exploring AI',
             linkURL:
-              'https://editor.p5js.org/https://docs.google.com/presentation/d/1U3yfVYzr0HMZOACkwZ1Fw3xW_clbp9JyXXwUwndypNs/edit?usp=sharing',
+              'https://docs.google.com/presentation/d/1U3yfVYzr0HMZOACkwZ1Fw3xW_clbp9JyXXwUwndypNs/edit?usp=sharing',
           },
           {
             displayText: 'Exploration Guide: What can ChatGPT do?',
@@ -98,6 +98,10 @@ export const allData: Schedule = [
             linkURL:
               'https://docs.google.com/document/d/1rAWPwIiZeI9p0-PMIctRpIEGGoLBI0IazwdH1AfnVcE/edit?usp=sharing',
             displayText: 'AI Inquiry Day - Students & Instructor Feedback',
+          },
+          {
+            linkURL: 'Post-Workshop Survey',
+            displayText: 'https://form.typeform.com/to/LEpyc07z',
           },
         ],
       },
