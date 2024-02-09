@@ -97,7 +97,7 @@ export const allData: Schedule = [
           {
             linkURL:
               'https://docs.google.com/document/d/1rAWPwIiZeI9p0-PMIctRpIEGGoLBI0IazwdH1AfnVcE/edit?usp=sharing',
-            displayText: 'AI Inquiry Day - Students & Instructor Feedback',
+            displayText: 'AI Inquiry Day - Student & Instructor Feedback',
           },
           {
             linkURL: 'https://form.typeform.com/to/LEpyc07z',
