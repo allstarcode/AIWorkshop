@@ -14,7 +14,7 @@ export const allData: Schedule = [
           {
             linkURL:
               'https://docs.google.com/presentation/d/1FtwM2RCELcuEZXgCWiYJNLQRVyv0q151nXd4UdHsK9Y/edit?usp=sharing',
-            displayText: 'Welcome + Goal Setting',
+            displayText: 'Welcome + Goal-Setting',
           },
           {
             linkURL: 'https://chat.openai.com/',
