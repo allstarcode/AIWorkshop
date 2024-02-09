@@ -100,8 +100,8 @@ export const allData: Schedule = [
             displayText: 'AI Inquiry Day - Students & Instructor Feedback',
           },
           {
-            linkURL: 'Post-Workshop Survey',
-            displayText: 'https://form.typeform.com/to/LEpyc07z',
+            linkURL: 'https://form.typeform.com/to/LEpyc07z',
+            displayText: 'Post-Workshop Survey',
           },
         ],
       },
