@@ -39,7 +39,7 @@ export const allData: Schedule = [
               'https://docs.google.com/document/d/19MlK3dT64YLfy-65ygBio_KnzMsLc-Dq-fMqO0CkAmo/edit?usp=sharing',
           },
           {
-            displayText: '<br />AI-tivity: Independent Exploration of ChatGPT I',
+            displayText: 'AI-tivity: Independent Exploration of ChatGPT I',
             linkURL:
               'https://docs.google.com/document/d/1jAqvJv0w5iY8aziqpCsQx0qmyHx6pj0ll9VlgOgTQqk/copy?title=AI-tivity:%20Independent%20Exploration%20of%20ChatGPT%20I',
           },
@@ -102,6 +102,11 @@ export const allData: Schedule = [
           {
             linkURL: 'https://form.typeform.com/to/LEpyc07z',
             displayText: 'Post-Workshop Survey',
+          },
+          {
+            linkURL:
+              'https://drive.google.com/file/d/1zMA6jU_5QQuTrJTOrb6aS0UXKKyzP6kz/view?usp=sharing',
+            displayText: 'Weekend Intensive 1-Pager',
           },
         ],
       },
